@@ -1,0 +1,4 @@
+outs:
+- md5: 0bfdff267278a6cc04d41504f9a7b946
+  size: 250341
+  path: tesla.csv
